@@ -405,7 +405,7 @@ ol {
 }
 
 /*---------------------
-  Hero
+  slyder
 -----------------------*/
 
 .hero {
@@ -585,7 +585,7 @@ ol {
 }
 
 /*---------------------
-  Product
+  Anime
 -----------------------*/
 
 .product {
@@ -1852,7 +1852,7 @@ ol {
 	color: #e53637;
 }
 
-/*--------------------------------- Responsive Media Quaries -----------------------------*/
+/*--------------------------------- Responsive  -----------------------------*/
 
 @media only screen and (min-width: 1200px) and (max-width: 1300px) {
 	.hero {
@@ -1866,7 +1866,7 @@ ol {
 	}
 }
 
-/* Medium Device = 1200px */
+/* 1200px */
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 	.hero {
@@ -1884,7 +1884,7 @@ ol {
 	}
 }
 
-/* Tablet Device = 768px */
+/* 768px */
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	.hero {
@@ -1989,7 +1989,7 @@ ol {
 	}
 }
 
-/* Wide Mobile = 480px */
+/*  480px */
 
 @media only screen and (max-width: 767px) {
 	.hero {
@@ -2130,7 +2130,7 @@ ol {
 	}
 }
 
-/* Small Device = 320px */
+/*320px */
 
 @media only screen and (max-width: 479px) {
 	.hero__slider.owl-carousel .owl-nav {
